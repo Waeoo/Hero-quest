@@ -1,4 +1,5 @@
 import os
+import random
 
 # count steps taken
 STEPS = 0
